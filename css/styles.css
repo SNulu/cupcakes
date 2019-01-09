@@ -1,0 +1,17 @@
+p.first {
+
+  color: purple;
+  font-style: italic;
+  font-family: inherit;
+}
+p.Mid {
+  color: pink;
+  font-style:normal;
+  font-family: sans-serif;
+}
+
+p.last {
+  color: green;
+  font-style: normal;
+  font-family: serif;
+}
